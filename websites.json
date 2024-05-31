@@ -1,0 +1,15 @@
+[
+    {
+        "name": "roboring",
+        "slug": "roboring",
+		"about": "you are here!",
+        "url": "https://stellophiliac.github.io/roboring"
+    },
+    {
+        "name": "moondvsted",
+        "slug": "stel",
+		"about": "stel's silly personal website",
+        "url": "https://moondvsted.neocities.org",
+        "owner": "https://nightcity.bar/@stel"
+    }
+]

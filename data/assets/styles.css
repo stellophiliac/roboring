@@ -1,0 +1,119 @@
+@font-face {
+    font-family: "Jetbrains Mono";
+    src: url(./JetBrainsMono.ttf);
+}
+
+body {
+    font-family: "Jetbrains Mono", monospace;
+	line-height: 1.6;
+    background-color: #111;
+    color: #fff;
+    font-weight:lighter;
+    max-width:1250px; 
+    margin: 0 auto
+}
+
+h1 {
+	text-align: center;
+}
+
+#robo {
+    content:url(./ms_robot.svg);
+    height:1em;
+    vertical-align:middle;
+    margin-right:0.5em
+}
+
+#robo:hover {
+    content:url(./ms_robot_cheery.png)
+}
+
+a {
+    color: #58d3d7;
+    text-decoration: underline;
+    background-color: transparent;
+    font-weight: normal;
+}
+
+a:hover, a:focus {
+    text-decoration: none; 
+    background-color: #58d3d7;
+    color: #111; 
+}
+
+b {
+    color:#58d3d7;
+    font-weight: bold;
+}
+
+#members {
+    width:100%;
+    overflow-x:auto
+}
+
+table {	
+    width: 100%;
+    border-collapse: collapse;
+    margin: 12px auto;
+	font-size: 1em;
+}
+
+tr { 
+    margin-bottom: 10px; 
+}
+
+tr:nth-child(odd) {
+        background-color: #222; /* Light gray for odd rows */
+}
+
+tr:hover {
+    background-color: #444; /*  hover effect for table rows */
+}
+
+th, td {
+    padding: 10px;
+    border: 2px solid #666;
+    border-radius: 8px;
+	text-align: left; 
+}
+
+th {
+    background-color: #444;
+    text-align: center;
+	font-size: 1.1em;
+}
+
+ol {
+    margin:0 1.75em;
+    padding:0;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+pre {
+    font-family: 'jetbrains mono', monospace;
+}
+
+.comment {
+    color:#929292;
+    font-style:italic
+}
+
+.container {
+    max-width: 800px; 
+    margin: auto;
+    padding: 12px;
+}
+
+footer {
+    text-align: center;
+    font-size:0.75em;
+}
+
+@media screen and (max-width: 600px) {
+    table {
+        width: 100%; /* Allows the table to be 100% width on smaller screens */
+    }
+}

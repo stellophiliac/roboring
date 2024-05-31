@@ -1,0 +1,20 @@
+# Compiled files
+/target/
+
+# Generated webring files
+/webring/
+
+# Backup files created by editors
+*~
+*.swp
+
+# IDE files
+.idea/
+.vscode/
+.vs/
+
+# Debug files
+log.txt
+
+# Conversation files
+*.txt

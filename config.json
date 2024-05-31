@@ -1,0 +1,14 @@
+{
+  "ring_name": "roboring",
+  "ring_description": "a webring for robot-aligned beings",
+  "ring_owner": "stel",
+  "ring_owner_site": "https://moondvsted.neocities.org/",
+  "filepath_list": "./websites.json",
+  "path_output": "./docs",
+  "path_assets": "./data/assets",
+  "path_templates": "./data/templates",
+  "base_url": "https://webring.domain.tld",
+  "shuffle": false,
+  "verbose": false,
+  "skip_minify": false
+}
