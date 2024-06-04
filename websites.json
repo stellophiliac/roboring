@@ -32,5 +32,12 @@
         "about": "Silly personal website",
         "url": "https://tulpenkiste.codeberg.page",
         "owner": "https://lea.pet/@tulpenkiste"
+    },
+    {
+        "name": "Noelle.dev",
+        "slug": "noelle",
+        "about": "Noelle's personal website for writing and reference",
+        "url": "https://noelle.dev",
+        "owner": "https://tech.lgbt/@noelle"
     }
 ]
