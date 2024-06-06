@@ -39,5 +39,12 @@
         "about": "Noelle's personal website for writing and reference",
         "url": "https://noelle.dev",
         "owner": "https://tech.lgbt/@noelle"
+    },
+    {
+        "name": "sophia",
+        "slug": "zvava",
+        "about": "sophie's brain out on a table",
+        "url": "https://zvava.org",
+        "owner": "https://f.619.hu/@zvava"
     }
 ]
