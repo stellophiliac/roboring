@@ -116,4 +116,7 @@ footer {
     table {
         width: 100%; /* Allows the table to be 100% width on smaller screens */
     }
+    body {
+        padding:0.5em
+    }
 }
