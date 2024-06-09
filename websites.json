@@ -46,5 +46,12 @@
         "about": "sophie's brain out on a table",
         "url": "https://zvava.org",
         "owner": "https://f.619.hu/@zvava"
+    },
+    {
+        "name": "Query Δ-44203 Online",
+        "slug": "44203",
+        "about": "(delta-query-interface node: Δ-44203)",
+        "url": "https://query.44203.online/",
+        "owner": "https://mastodon.vierkantor.com/@1"
     }
 ]
