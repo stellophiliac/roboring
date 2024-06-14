@@ -53,5 +53,12 @@
         "about": "(delta-query-interface node: Δ-44203)",
         "url": "https://query.44203.online/",
         "owner": "https://mastodon.vierkantor.com/@1"
+    },
+    {
+        "name": "flora <❀-35672>",
+        "slug": "2740-35672",
+        "about": "seizing the means of computation while shitposting",
+        "url": "https://genosse.eu",
+        "owner": "https://shonk.social/@flora"
     }
 ]
