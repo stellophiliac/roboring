@@ -67,5 +67,12 @@
         "about": "⛧-440729's website",
         "url": "https://999eagle.moe",
         "owner": "https://mastodon.catgirl.cloud/@sophie"
+    },
+    {
+        "name": "diamond #0xd14",
+        "slug": "0xd14",
+        "about": "0xd14 terminal and information hub",
+        "url": "https://libdb.so",
+        "owner": "https://tech.lgbt/@diamond"
     }
 ]
