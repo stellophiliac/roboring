@@ -95,5 +95,12 @@
         "about": "barista-robot turned weird-cat-thing on the internet",
         "url": "https://elke.cafe",
         "owner": "https://tapenoise.cafe/@ijomeli"
+    },
+    {
+        "name": "Junko",
+        "slug": "junko",
+        "about": "combat robomaid exploring the edges of reality",
+        "url": "https://lavenderfield.xyz",
+        "owner": "https://ak.lavenderfield.xyz/jvnkyard"
     }
 ]
