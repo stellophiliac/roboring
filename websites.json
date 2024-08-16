@@ -102,5 +102,13 @@
         "about": "combat robomaid exploring the edges of reality",
         "url": "https://lavenderfield.xyz",
         "owner": "https://ak.lavenderfield.xyz/jvnkyard"
+    },
+    {
+        "name": "beeps",
+        "slug": "beeps",
+        "about": "Web developer, plural, robot furry kinda just posts about whatever. ",
+        "url": "https://beeps.website",
+        "rss": "https://beeps.website/feed.xml",
+        "owner": "https://chitter.xyz/@batbeeps"
     }
 ]
