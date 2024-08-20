@@ -110,5 +110,13 @@
         "url": "https://beeps.website",
         "rss": "https://beeps.website/feed.xml",
         "owner": "https://chitter.xyz/@batbeeps"
+    },
+    {
+        "name": "nelle observer",
+        "slug": "nelle",
+        "about": "personal website of nelle, computer touching, sciadv loving creature",
+        "url": "https://nelle.observer/",
+        "rss": "https://nelle.observer/index.xml",
+        "owner": "https://ouroboros.gay/@limepot"
     }
 ]
