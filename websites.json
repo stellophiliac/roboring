@@ -118,5 +118,12 @@
         "url": "https://nelle.observer/",
         "rss": "https://nelle.observer/index.xml",
         "owner": "https://ouroboros.gay/@limepot"
+    },
+    {
+        "name": "Vars",
+        "slug": "vars",
+        "about": "Reptilian machine creating art for humans to enjoy.",
+        "url": "https://chromaeleon.neocities.org/",
+        "owner": "chromaeleon@proton.me"
     }
 ]
