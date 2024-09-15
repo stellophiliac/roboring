@@ -139,5 +139,13 @@
         "about": "This is Charon Faustinus's personal website, Exlitry.World (or Exlitry verse) are created by Charon Faustinus",
         "url": "https://exlitry.world/",
         "owner": "charon.faustinus@gmail.com"
+    },
+    {
+        "name": "cascading space",
+        "slug": "cascade",
+        "about": "personal website for cascade, a protogen who makes websites and things that go on websites",
+        "url": "https://cascading.space",
+        "rss": "https://cascading.space/feed.xml",
+        "owner": "cascade@cascading.space"
     }
 ]
