@@ -141,6 +141,14 @@
         "owner": "charon.faustinus@gmail.com"
     },
     {
+        "name": "Cybird",
+        "slug": "CyberBirb",
+        "about": "Website dedicated to funny mechanical birb from 404 years in the Retrofuture.",
+        "url": "https://cybird.nekoweb.org",
+        "rss": "https://cybird.nekoweb.org/Cybird_rss.xml",
+        "owner": "https://picarto.tv/Cybird/profile"
+    },
+    {
         "name": "cascading space",
         "slug": "cascade",
         "about": "personal website for cascade, a protogen who makes websites and things that go on websites",
