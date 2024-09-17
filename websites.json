@@ -139,5 +139,13 @@
         "about": "This is Charon Faustinus's personal website, Exlitry.World (or Exlitry verse) are created by Charon Faustinus",
         "url": "https://exlitry.world/",
         "owner": "charon.faustinus@gmail.com"
+    },
+    {
+        "name": "Cybird",
+        "slug": "CyberBirb",
+        "about": "Website dedicated to funny mechanical birb from 404 years in the Retrofuture.",
+        "url": "https://cybird.nekoweb.org",
+        "rss": "https://cybird.nekoweb.org/Cybird_rss.xml",
+        "owner": "https://picarto.tv/Cybird/profile"
     }
 ]
