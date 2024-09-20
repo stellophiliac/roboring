@@ -155,5 +155,12 @@
         "url": "https://cascading.space",
         "rss": "https://cascading.space/feed.xml",
         "owner": "cascade@cascading.space"
+    },
+    {
+        "name": "thermia",
+        "slug": "thermia",
+        "about": "website belonging to a bot called thermia",
+        "url": "https://girlthi.ng/~thermia",
+        "owner": "https://sk.girlthi.ng/@thermia"
     }
 ]
