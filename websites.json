@@ -169,5 +169,12 @@
         "about": "My personal site on which I post about anything I am doing. May contain stories, quick writings and programming stuff",
         "url": "http://kunfucutsman.neocities.org",
         "owner": "https://discordapp.com/users/335547774219059211"
+    },
+    {
+        "name": "strayOS",
+        "slug": "5TR4Y",
+        "about": "console.log('a web extension of strayOS')",
+        "url": "https://strayos.nekoweb.org",
+        "owner": "strayos@keemail.me"
     }
 ]
