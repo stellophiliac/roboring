@@ -184,5 +184,12 @@
         "about": "console.log('a web extension of strayOS')",
         "url": "https://strayos.nekoweb.org",
         "owner": "strayos@keemail.me"
+    },
+    {
+        "name": "meluhdy",
+        "slug": "meluwudy",
+        "about": "mel's home site, where it stores information about its identity",
+        "url": "https://meluhdy.dev",
+        "owner": "https://mk.moth.zone/@melody"
     }
 ]
