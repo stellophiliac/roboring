@@ -198,5 +198,12 @@
         "about": "mel's home site, where it stores information about its identity",
         "url": "https://meluhdy.dev",
         "owner": "https://mk.moth.zone/@melody"
+    },
+    {
+        "name": "natalie[ee]",
+        "slug": "0x6e6174",
+        "about": "website in which natalie complains and ocassionaly doesn't explain incomprehensible computer programs",
+        "url": "https://natalieee.net",
+        "owner": "https://natalieee.net/files/nrc.vcf"
     }
 ]
