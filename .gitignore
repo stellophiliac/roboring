@@ -18,3 +18,7 @@ log.txt
 
 # Conversation files
 *.txt
+
+# System cache files
+.DS_Store
+Thumbs.db
