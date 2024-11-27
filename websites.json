@@ -114,10 +114,10 @@
     {
         "name": "beeps",
         "slug": "beeps",
-        "about": "Web developer, plural, robot furry kinda just posts about whatever. ",
+        "about": "Web developer, plural, robot furry kinda just posts about whatever.",
         "url": "https://beeps.website",
         "rss": "https://beeps.website/feed.xml",
-        "owner": "https://chitter.xyz/@batbeeps"
+        "owner": "https://social.beeps.gay/@beeps"
     },
     {
         "name": "nelle observer",
