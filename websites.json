@@ -205,5 +205,11 @@
         "about": "website in which natalie complains and ocassionaly doesn't explain incomprehensible computer programs",
         "url": "https://natalieee.net",
         "owner": "https://natalieee.net/files/nrc.vcf"
+    },
+    {
+        "name": "The Silvermoon Team",
+        "slug": "12abca3d-8",
+        "about": "Identity and hobby rambles shared between an amalgamation of androids and their pack of weirdos.",
+        "url": "https://gze.neocities.org/"
     }
 ]
