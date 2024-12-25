@@ -218,5 +218,12 @@
         "about": "the website of a system with robots and dragons in it what more do you need to know",
         "url": "https://analoguecatalogue.neocities.org//",
         "owner": "weirddragon@duck.com"
+    },
+    {
+        "name": "HUNTER-393q658",
+        "slug": "393q658",
+        "about": "a personal site for a robot's ramblings",
+        "url": "https://cybergothic.neocities.org/",
+        "owner": "https://neocities.org/site/cybergothic"
     }
 ]
