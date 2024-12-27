@@ -218,5 +218,11 @@
         "about": "the website of a system with robots and dragons in it what more do you need to know",
         "url": "https://analoguecatalogue.neocities.org//",
         "owner": "weirddragon@duck.com"
+    },
+    {
+        "name": "QuARC's personal website",
+        "slug": "quarc",
+        "about": "My website that's mostly an instruction manual",
+        "url": "https://x86cu.be"
     }
 ]
