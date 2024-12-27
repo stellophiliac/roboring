@@ -224,5 +224,12 @@
         "slug": "quarc",
         "about": "My website that's mostly an instruction manual",
         "url": "https://x86cu.be"
+    },
+    {
+        "name": "HUNTER-393q658",
+        "slug": "393q658",
+        "about": "a personal site for a robot's ramblings",
+        "url": "https://cybergothic.neocities.org/",
+        "owner": "https://neocities.org/site/cybergothic"
     }
 ]
