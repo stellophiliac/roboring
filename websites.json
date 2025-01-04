@@ -124,8 +124,8 @@
         "slug": "nelle",
         "about": "personal website of nelle, computer touching, sciadv loving creature",
         "url": "https://nelle.observer/",
-        "rss": "https://nelle.observer/index.xml",
-        "owner": "https://ouroboros.gay/@limepot"
+        "rss": "https://nelle.observer/rss.xml",
+        "owner": "https://limbo.town/@nellePoint"
     },
     {
         "name": "Vars",
