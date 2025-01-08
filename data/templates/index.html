@@ -29,26 +29,29 @@
     in general, most sites will be accepted, but i do reserve the right to reject sites</p>
   <ol>
     <li>choose a slug (unique code) for your site</li>
-    <li>add the webring HTML somewhere on your site:<br>
-      &lt;a href="https://stellophiliac.github.io/roboring/<b>YOUR_SLUG</b>/previous"&gt; &lt;- &lt;/a&gt;<br>
+    <li>add the webring HTML somewhere on your site:
+      <pre>
+      &lt;a href="https://stellophiliac.github.io/roboring/<b>YOUR_SLUG</b>/previous"&gt;←&lt;/a&gt;<br>
       &lt;a href="https://stellophiliac.github.io/roboring"&gt;roboring&lt;/a&gt;<br>
-      &lt;a href="https://stellophiliac.github.io/roboring/<b>YOUR_SLUG</b>/next"&gt; -&gt; &lt;/a&gt;
-      <br>
+      &lt;a href="https://stellophiliac.github.io/roboring/<b>YOUR_SLUG</b>/next"&gt;→&lt;/a&gt;
+      </pre>
       feel free to customize the content as you'd like, as long as the links are intact. make sure to replace
       "YOUR_SLUG" with your actual slug!
     </li>
     <li>open a pull request on <a href="https://github.com/stellophiliac/roboring/tree/main">github</a> and add your
-      site to <b>websites.json</b>. here's the format:<br>
+      site to <b>websites.json</b>. here's the format:
+      <pre>
       {<br>
-      <div style="margin-left:2em">"name": "<span class="comment">your name</span>",<br>
+      <div style="margin-left:2em">
+        "name": "<span class="comment">your name</span>",<br>
         "slug": "<span class="comment">your slug</span>",<br>
         "about": "<span class="comment">short description of your site</span>",<br>
         "url": "<span class="comment">your site url</span>",<br>
         "rss": "<span class="comment">your rss feed url (optional, delete if unneeded)</span>", <br>
-        "owner": "<span class="comment">link to you: could be social media, neocities profile, an email,
-          etc...</span>"
+        "owner": "<span class="comment">link to you: could be social media, neocities profile, an email, etc...</span>"
       </div>
-      }<br>
+      }
+      </pre>
       make sure everything's in quotes, and that there's a comma after the closing curly brace } of the previous
       item.<br>
       if you'd prefer, feel free to email me instead (stel [at] disroot.org) and i'll add you manually.
