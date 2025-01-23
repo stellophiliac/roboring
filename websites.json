@@ -238,5 +238,13 @@
         "about": "507131 (aka abbie)'s website",
         "url": "https://abbie.moe/",
         "owner": "https://transfem.boywife.top/abbieoverflight"
-    }
+    },
+    {
+        "name": "0x4d6165",
+        "slug": "0x4d6165",
+        "about": "personal site, blog, and writings repository of a robot fox girl",
+        "url": "https://0x4d6165.wanderingwires.net",
+        "rss": "https://0x4d6165.wanderingwires.net/rss.xml",
+        "owner": "https://wanderingwires.net/@0x4d6165"
+    } 
 ]
