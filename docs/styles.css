@@ -95,7 +95,7 @@ li {
 pre {
     font-family: 'jetbrains mono', monospace;
     white-space: nowrap;
-    overflow-x: scroll;
+    overflow-x: auto;
     border: 1px solid #666;
     border-radius: 8px;
     padding: 1em;
