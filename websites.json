@@ -260,5 +260,11 @@
         "about": "a green screenface robot-type kinda guy who likes drawing other robots :3",
         "url": "https://riflesniper.art/",
         "owner": "https://neocities.org/site/riflesniper"
-    } 
+    },
+    {
+      "name": "charlie",
+      "slug": "charlie",
+      "about": "the personal webpage of a thing called charlie",
+      "url": "https://topos.gay/",
+    }
 ]
