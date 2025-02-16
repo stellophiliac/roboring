@@ -266,5 +266,12 @@
       "slug": "charlie",
       "about": "the personal webpage of a thing called charlie",
       "url": "https://topos.gay/"
+    },
+    {
+        "name": "ashley",
+        "slug": "442811",
+        "about": "ashley's little corner of the internet",
+        "url": "https://skysyrup.dev/",
+        "owner": "ashley[at]skysyrup.dev"
     }
 ]
