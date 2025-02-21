@@ -273,5 +273,13 @@
         "about": "ashley's little corner of the internet",
         "url": "https://skysyrup.dev/",
         "owner": "ashley[at]skysyrup.dev"
+    },
+    {
+        "name": "grassblock",
+        "slug": "grassblock",
+        "about": "fmt.Println('A random block's homespace')",
+        "url": "https://gb0.dev/",
+        "rss": "https://lab.gb0.dev/index.xml",
+        "owner": "i[at]gb0.dev | https://portal.gb0.dev/@me"
     }
 ]
