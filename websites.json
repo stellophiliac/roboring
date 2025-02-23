@@ -262,10 +262,10 @@
         "owner": "https://neocities.org/site/riflesniper"
     },
     {
-      "name": "charlie",
-      "slug": "charlie",
-      "about": "the personal webpage of a thing called charlie",
-      "url": "https://topos.gay/"
+        "name": "charlie",
+        "slug": "charlie",
+        "about": "the personal webpage of a thing called charlie",
+        "url": "https://topos.gay/"
     },
     {
         "name": "ashley",
@@ -275,11 +275,19 @@
         "owner": "ashley[at]skysyrup.dev"
     },
     {
-   		"name": "Ivy@0x4956",
-    	"slug": "cosyivy",
-    	"about": "a silly socialist robo programmer girls corner of the interwebbs!! :3",
-    	"url": "https://cosyivy.xyz",
-    	"rss": "https://cosyivy.xyz/rss.xml",
-    	"owner": "ivy@cosyivy.xyz"
-    } 
+        "name": "Ivy@0x4956",
+        "slug": "cosyivy",
+        "about": "a silly socialist robo programmer girls corner of the interwebbs!! :3",
+        "url": "https://cosyivy.xyz",
+        "rss": "https://cosyivy.xyz/rss.xml",
+        "owner": "ivy@cosyivy.xyz"
+    },
+    {
+        "name": "grassblock",
+        "slug": "grassblock",
+        "about": "fmt.Println('A random block's homespace')",
+        "url": "https://gb0.dev/",
+        "rss": "https://lab.gb0.dev/index.xml",
+        "owner": "i[at]gb0.dev | https://portal.gb0.dev/@me"
+    }
 ]
