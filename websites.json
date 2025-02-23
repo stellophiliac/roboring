@@ -273,5 +273,13 @@
         "about": "ashley's little corner of the internet",
         "url": "https://skysyrup.dev/",
         "owner": "ashley[at]skysyrup.dev"
-    }
+    },
+    {
+   		"name": "Ivy@0x4956",
+    	"slug": "cosyivy",
+    	"about": "a silly socialist robo programmer girls corner of the interwebbs!! :3",
+    	"url": "https://cosyivy.xyz",
+    	"rss": "https://cosyivy.xyz/rss.xml",
+    	"owner": "ivy@cosyivy.xyz"
+    } 
 ]
