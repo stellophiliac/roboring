@@ -289,5 +289,13 @@
         "url": "https://gb0.dev/",
         "rss": "https://lab.gb0.dev/index.xml",
         "owner": "i[at]gb0.dev | https://portal.gb0.dev/@me"
+    },
+    {
+        "name": "dish site",
+        "slug": "dish",
+        "about": "dish's webbed site",
+        "url": "https://pyrox.dev/",
+        "rss": "https://pyrox.dev/blog.rss",
+        "owner": "pyrox[at]pyrox.dev"
     }
 ]
