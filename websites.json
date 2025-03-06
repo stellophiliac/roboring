@@ -297,5 +297,12 @@
         "url": "https://pyrox.dev/",
         "rss": "https://pyrox.dev/blog.rss",
         "owner": "pyrox[at]pyrox.dev"
+    },
+    {
+        "name": "darthplagal",
+        "slug": "darthplagal",
+        "about": "a site index for darthplagal, a woman on the internet",
+        "url": "https://darthplagal.xyz",
+        "owner": "https://bsky.app/profile/darthplagal.xyz"
     }
 ]
