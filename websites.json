@@ -304,5 +304,12 @@
         "about": "a site index for darthplagal, a woman on the internet",
         "url": "https://darthplagal.xyz",
         "owner": "https://bsky.app/profile/darthplagal.xyz"
+    },
+    {
+        "name": "(un)Squeakable code",
+        "slug": "squeakable",
+        "about": "Squeaking bytes into the net",
+        "url": "https://squeakable.dev",
+        "owner": "https://furry.engineer/@squeakable"
     }
 ]
