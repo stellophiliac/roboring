@@ -318,5 +318,12 @@
         "about": "the website of your silly local /(robo(t)?|wolf(y)?)(girl(thing)?)?/",
         "url": "https://wolfyja.de",
         "owner": "https://gts.apicrim.es/@awoo | https://gts.apicrim.es/@128293 | beep [at] wolfyja.de"
+    },
+    {
+        "name": "0x9E01",
+        "slug": "ninee",
+        "about": "mostly a links page rn but should eventually contain logs of projects and other topics that interest me. also the robotkin flag",
+        "url": "www.ninee.xyz",
+        "owner": "https://snug.moe/@0x9E01"
     }
 ]
