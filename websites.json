@@ -325,5 +325,13 @@
         "about": "mostly a links page rn but should eventually contain logs of projects and other topics that interest me. also the robotkin flag",
         "url": "https://www.ninee.xyz",
         "owner": "https://snug.moe/@0x9E01"
+    },
+    {
+        "name": "dusk",
+        "slug": "gazesys",
+        "about": "a thing, gazing at the void of the net...",
+        "url": "https://gaze.systems",
+        "rss": "https://gaze.systems/entries/_rss",
+        "owner": "https://bsky.app/profile/did:plc:dfl62fgb7wtjj3fcbb72naae"
     }
 ]
