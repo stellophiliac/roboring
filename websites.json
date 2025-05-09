@@ -326,7 +326,7 @@
         "url": "https://gaze.systems",
         "rss": "https://gaze.systems/entries/_rss",
         "owner": "https://bsky.app/profile/did:plc:dfl62fgb7wtjj3fcbb72naae"
-    }
+    },
     {
         "name": "liv.town",
         "slug": "livtown",
@@ -334,5 +334,12 @@
         "url": "https://liv.town",
         "rss": "https://liv.town/rss.xml",
         "owner": "https://quack.social/@liv"
+    },
+    {
+        "name": "cy",
+        "slug": "0x9D",
+        "about": "the page of a dogthing robocreature who will eventually have interesting stuff to talk about",
+        "url": "https://cy-bernet-ix.neocities.org/",
+        "owner": "https://bsky.app/profile/cy-bernet-ix.neocities.org"
     }
 ]
