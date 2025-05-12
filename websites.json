@@ -341,5 +341,12 @@
         "about": "the page of a dogthing robocreature who will eventually have interesting stuff to talk about",
         "url": "https://cy-bernet-ix.neocities.org/",
         "owner": "https://bsky.app/profile/cy-bernet-ix.neocities.org"
+    },
+    {
+        "name": "31a05b",
+        "slug": "31a05b9c",
+        "about": "31a's slowly expanding cluster of pages within the www",
+        "url": "https://www.31a05b.net/",
+        "owner": "https://bsky.app/profile/31a05b.net"
     }
 ]
