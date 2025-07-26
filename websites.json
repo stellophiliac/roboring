@@ -333,5 +333,12 @@
         "about": "31a's slowly expanding cluster of pages within the www",
         "url": "https://www.31a05b.net/",
         "owner": "https://bsky.app/profile/31a05b.net"
+    },
+    {
+        "name": "Δ-551724",
+        "slug": "551724",
+        "about": "unit 551724's little cluster of bytes",
+        "url": "https://index.551724.dev/",
+        "owner": "https://catgirl.global/@maya"
     }
 ]
