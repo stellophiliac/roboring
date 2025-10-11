@@ -354,5 +354,12 @@
         "about": "a little blogpage from a cat-girl-bot-thing",
         "url": "https://astreaprtcl.dev",
         "owner": "https://w.linuxposting.xyz/blog/Astreaprtcl"
+    },
+    {
+        "name": "arlatius_",
+        "slug": "ARLATIUS",
+        "about": "only a little bit corrupted!",
+        "url": "https://arlatius.nekoweb.org/index.html",
+        "owner": "https://www.tumblr.com/emet-selch-apologism"
     }
 ]
