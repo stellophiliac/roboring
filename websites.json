@@ -361,5 +361,12 @@
         "about": "only a little bit corrupted!",
         "url": "https://arlatius.nekoweb.org/index.html",
         "owner": "https://www.tumblr.com/emet-selch-apologism"
+    },
+    {
+        "name": "0xda157",
+        "slug": "0xda157",
+        "about": "0xda157's personal website",
+        "url": "https://da157.id",
+        "owner": "https://mastodon.catgirl.cloud/@da157"
     }
 ]
