@@ -368,5 +368,12 @@
         "about": "0xda157's personal website",
         "url": "https://da157.id",
         "owner": "https://mastodon.catgirl.cloud/@da157"
+    },
+    {
+        "name": "6B74-4",
+        "slug": "6B74-4",
+        "about": "6B74-4's site",
+        "url": "https://beeping.pet",
+        "owner": "https://is.beeping.pet/@kate"
     }
 ]
