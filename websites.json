@@ -375,5 +375,12 @@
         "about": "6B74-4's site",
         "url": "https://beeping.pet",
         "owner": "https://is.beeping.pet/@kate"
-    }
+    },
+    {
+	"name": "0x3f4f3e",
+    	"slug": "0x3f4f3e",
+    	"about": "inbetween the silence and the noise",
+    	"url": "https://0x3f4f3e.org",
+    	"owner": "mailto:admin@0x3f4f3e.org"
+    } 
 ]
