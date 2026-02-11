@@ -382,5 +382,12 @@
     	"about": "inbetween the silence and the noise",
     	"url": "https://0x3f4f3e.org",
     	"owner": "mailto:admin@0x3f4f3e.org"
-    } 
+    },
+	{
+	"name": "Ashe",
+	"slug": "gravepaw",
+	"about": "Personal website of a Pretender cat thing.",
+	"url": "https://graveyardpaws.web.fc2.com/",
+	"owner": "xxgraveyardpawsxx@kittymail.com"
+	}
 ]
