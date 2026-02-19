@@ -377,10 +377,17 @@
         "owner": "https://is.beeping.pet/@kate"
     },
     {
-	"name": "0x3f4f3e",
+		"name": "0x3f4f3e",
     	"slug": "0x3f4f3e",
     	"about": "inbetween the silence and the noise",
     	"url": "https://0x3f4f3e.org",
     	"owner": "mailto:admin@0x3f4f3e.org"
-    } 
+    },
+	{
+		"name": "Cuskiy",
+    	"slug": "cuskiy",
+    	"about": "Cuskiy's personal website",
+    	"url": "https://ity.moe",
+    	"owner": "kwz@tuta.io"
+    }
 ]
