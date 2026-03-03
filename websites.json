@@ -389,5 +389,11 @@
 	"about": "Personal website of a Pretender cat thing.",
 	"url": "https://graveyardpaws.web.fc2.com/",
 	"owner": "xxgraveyardpawsxx@kittymail.com"
+	},
+	{
+	  "name": "Toaster",
+	  "slug": "toaster",
+	  "about": "peak spaghetti code",
+	  "url": "https://alfieking.dev/",
 	}
 ]
