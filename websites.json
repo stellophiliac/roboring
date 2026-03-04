@@ -30,7 +30,7 @@
         "name": "Tulpenkiste",
         "slug": "tulpenkiste",
         "about": "Silly personal website",
-        "url": "https://tulpenkiste.codeberg.page",
+        "url": "https://retcinder.codeberg.page",
         "owner": "https://lea.pet/@tulpenkiste"
     },
     {
@@ -377,23 +377,23 @@
         "owner": "https://is.beeping.pet/@kate"
     },
     {
-	"name": "0x3f4f3e",
-    	"slug": "0x3f4f3e",
-    	"about": "inbetween the silence and the noise",
-    	"url": "https://0x3f4f3e.org",
-    	"owner": "mailto:admin@0x3f4f3e.org"
+        "name": "0x3f4f3e",
+        "slug": "0x3f4f3e",
+        "about": "inbetween the silence and the noise",
+        "url": "https://0x3f4f3e.org",
+        "owner": "mailto:admin@0x3f4f3e.org"
     },
-	{
-	"name": "Ashe",
-	"slug": "gravepaw",
-	"about": "Personal website of a Pretender cat thing.",
-	"url": "https://graveyardpaws.web.fc2.com/",
-	"owner": "xxgraveyardpawsxx@kittymail.com"
-	},
-	{
-	  "name": "Toaster",
-	  "slug": "toaster",
-	  "about": "peak spaghetti code",
-	  "url": "https://alfieking.dev/",
-	}
+    {
+        "name": "Ashe",
+        "slug": "gravepaw",
+        "about": "Personal website of a Pretender cat thing.",
+        "url": "https://graveyardpaws.web.fc2.com/",
+        "owner": "xxgraveyardpawsxx@kittymail.com"
+    },
+    {
+        "name": "Toaster",
+        "slug": "toaster",
+        "about": "peak spaghetti code",
+        "url": "https://alfieking.dev/"
+    }
 ]
