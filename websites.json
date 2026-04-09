@@ -395,5 +395,13 @@
         "slug": "toaster",
         "about": "peak spaghetti code",
         "url": "https://proot.uk/"
+    },
+    {
+        "name": "7vtia",
+        "slug": "7vtia",
+        "about": "The website of someone who really likes directories.",
+        "url": "https://7vtia.nekoweb.org/",
+        "rss": "https://7vtia.nekoweb.org/rss.xml",
+        "owner": "7vtia@tuta.io"
     }
 ]
