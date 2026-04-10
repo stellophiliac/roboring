@@ -402,5 +402,14 @@
         "about": "my personal website for yapping about linux and other things :3",
         "url": "https://avaloathelace.neocities.org/",
         "owner": "https://neocities.org/site/avaloathelace/"
+    },
+    {
+    
+        "name": "7vtia",
+        "slug": "7vtia",
+        "about": "The website of someone who really likes directories.",
+        "url": "https://7vtia.nekoweb.org/",
+        "rss": "https://7vtia.nekoweb.org/rss.xml",
+        "owner": "7vtia@tuta.io"
     }
 ]
