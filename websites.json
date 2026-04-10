@@ -395,5 +395,12 @@
         "slug": "toaster",
         "about": "peak spaghetti code",
         "url": "https://proot.uk/"
+    },
+    {
+        "name": "Ava Loathelace",
+        "slug": "ava",
+        "about": "my personal website for yapping about linux and other things :3",
+        "url": "https://avaloathelace.neocities.org/",
+        "owner": "https://neocities.org/site/avaloathelace/"
     }
 ]
