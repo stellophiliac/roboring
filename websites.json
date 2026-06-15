@@ -411,5 +411,13 @@
         "url": "https://7vtia.nekoweb.org/",
         "rss": "https://7vtia.nekoweb.org/rss.xml",
         "owner": "7vtia@tuta.io"
+    },
+    {
+        "name": "S1LV3R",
+        "slug": "s1lv3r",
+        "about": "nerdy shit and whatever i find interesting",
+        "url": "https://s1lv3r.codes",
+        "rss": "http://s1lv3r.codes/blog/feed.rss",
+        "owner": "mailto:me@s1lv3r.codes"
     }
 ]
