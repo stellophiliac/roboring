@@ -404,7 +404,6 @@
         "owner": "https://neocities.org/site/avaloathelace/"
     },
     {
-    
         "name": "7vtia",
         "slug": "7vtia",
         "about": "The website of someone who really likes directories.",
@@ -419,5 +418,13 @@
         "url": "https://s1lv3r.codes",
         "rss": "http://s1lv3r.codes/blog/feed.rss",
         "owner": "mailto:me@s1lv3r.codes"
+    },
+    {
+        "name": "Raven Winters",
+        "slug": "rjw",
+        "about": "personal website and photography by Raven Winters",
+        "url": "https://ravenwinters.org",
+        "rss": "https://ravenwinters.org/index.xml",
+        "owner": "hello@ravenwinters.org"
     }
 ]
