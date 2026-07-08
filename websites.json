@@ -426,5 +426,13 @@
         "url": "https://ravenwinters.org",
         "rss": "https://ravenwinters.org/index.xml",
         "owner": "hello@ravenwinters.org"
+    },
+    {
+       "name": "HAL",
+        "slug": "hal",
+        "about": "A comprehensive personal blog (that's more like a wiki in reality)",
+        "url": "https://hal.nekoweb.org",
+        "rss": "https://hal.nekoweb.org/rss.xml",
+        "owner": "kadowus@icloud.com" 
     }
 ]
