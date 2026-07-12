@@ -349,11 +349,11 @@
         "owner": "https://bsky.app/profile/inkbi0tic.bsky.social"
     },
     {
-        "name": "⬡-0x7e5ac6 [Astreaprtcl]",
-        "slug": "0x7e5ac6",
+        "name": "⬡-0x7a5ec6 [Astreaprtcl]",
+        "slug": "0x7a5ec6",
         "about": "a little blogpage from a cat-girl-bot-thing",
         "url": "https://astreaprtcl.dev",
-        "owner": "https://transgirl.cafe/@astreaprtcl"
+        "owner": "https://c-6.dev/fedi/astreaprtcl"
     },
     {
         "name": "arlatius_",
@@ -433,6 +433,6 @@
         "about": "A comprehensive personal blog (that's more like a wiki in reality)",
         "url": "https://hal.nekoweb.org",
         "rss": "https://hal.nekoweb.org/rss.xml",
-        "owner": "kadowus@icloud.com" 
+        "owner": "kadowus@icloud.com"
     }
 ]
