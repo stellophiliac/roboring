@@ -428,12 +428,12 @@
         "owner": "hello@ravenwinters.org"
     },
     {
-       "name": "HAL",
+        "name": "HAL",
         "slug": "hal",
         "about": "A comprehensive personal blog (that's more like a wiki in reality)",
         "url": "https://hal.nekoweb.org",
         "rss": "https://hal.nekoweb.org/rss.xml",
-        "owner": "kadowus@icloud.com" 
+        "owner": "kadowus@icloud.com"
     },
     {
         "name": "Zaraz7",
@@ -442,5 +442,12 @@
         "url": "https://zaraz7.w10.site",
         "rss": "https://zaraz7.w10.site/gallery-rss.xml",
         "owner": "https://mastodon.ml/@zaraz7"
+    },
+    {
+        "name": "Inskora",
+        "slug": "voidwalkers",
+        "about": "I'm a big fan of the TV-headed robots from Alexey Gerasimov's machinima series Skibidi Toilet. Voidwalkers Outpost is a fan-site dedicated to them!",
+        "url": "https://voidwalkers.tv/",
+        "owner": "https://me.sludge.town/"
     }
 ]
