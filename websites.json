@@ -434,5 +434,13 @@
         "url": "https://hal.nekoweb.org",
         "rss": "https://hal.nekoweb.org/rss.xml",
         "owner": "kadowus@icloud.com"
+    },
+    {
+        "name": "Zaraz7",
+        "slug": "0x2ABA27",
+        "about": "Just an amateur artist (and text browsers enjoyer)",
+        "url": "https://zaraz7.w10.site",
+        "rss": "https://zaraz7.w10.site/gallery-rss.xml",
+        "owner": "https://mastodon.ml/@zaraz7"
     }
 ]
