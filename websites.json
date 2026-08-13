@@ -449,5 +449,13 @@
         "about": "I'm a big fan of the TV-headed robots from Alexey Gerasimov's machinima series Skibidi Toilet. Voidwalkers Outpost is a fan-site dedicated to them!",
         "url": "https://voidwalkers.tv/",
         "owner": "https://me.sludge.town/"
+    },
+    {
+        "name": "343598",
+        "slug": "ivelieu",
+        "about": "linux, customisation and rust",
+        "url": "https://quietism.art/",
+        "rss": "https://quietism.art/blog.xml",
+        "owner": "ivelieu1@gmail.com"
     }
 ]
