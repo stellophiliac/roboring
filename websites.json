@@ -457,5 +457,19 @@
         "url": "https://quietism.art/",
         "rss": "https://quietism.art/blog.xml",
         "owner": "ivelieu1@gmail.com"
+    },
+    {
+        "name": "sophie",
+        "slug": "xmlisbetter",
+        "about": "my website is a personal one, i have alot of slashpages and stuff that i wanna fill out (sadly contains php)",
+        "url": "https://sophii.xyz/",
+        "owner": "https://go.bsky.app/profile/sophii.xyz"
+    },
+    {
+        "name": "komuros",
+        "slug": "komuros",
+        "about": "being made of hinges and his place of occasionally unhinged things",
+        "url": "https://komuros.com/",
+        "owner": "https://booping.synth.download/@komuros"
     }
 ]
