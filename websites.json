@@ -478,5 +478,11 @@
         "about": "Personal portfolio",
         "url": "https://joko.my.id/",
         "owner": "https://discord.com/users/1559719492014186618"
+    },
+    {
+        "name": "ExternStat",
+        "slug": "externstat",
+        "about": "a robot's personal website :]",
+        "url": "https://externstat.codeberg.page"
     }
 ]
